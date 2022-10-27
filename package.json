@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cpf-cnpj-validator": "^1.0.3",
+    "cypress": "^10.9.0"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.2.3",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.2.1"
+  }
+}
